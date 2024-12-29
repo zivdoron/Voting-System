@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\docs\\C#_projects\\backend_practice\\VotingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01AE52-6E67-4D75-BB44-4A1C1F1C2E72}|VotingSystem\\VotingSystem.csproj|d:\\docs\\c#_projects\\backend_practice\\votingsystem\\votingsystem\\project_main_architecture\\entities\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB01AE52-6E67-4D75-BB44-4A1C1F1C2E72}|VotingSystem\\VotingSystem.csproj|solutionrelative:votingsystem\\project_main_architecture\\entities\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01AE52-6E67-4D75-BB44-4A1C1F1C2E72}|VotingSystem\\VotingSystem.csproj|d:\\docs\\c#_projects\\backend_practice\\votingsystem\\votingsystem\\project_main_architecture\\entities\\election.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB01AE52-6E67-4D75-BB44-4A1C1F1C2E72}|VotingSystem\\VotingSystem.csproj|solutionrelative:votingsystem\\project_main_architecture\\entities\\election.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01AE52-6E67-4D75-BB44-4A1C1F1C2E72}|VotingSystem\\VotingSystem.csproj|d:\\docs\\c#_projects\\backend_practice\\votingsystem\\votingsystem\\project_main_architecture\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB01AE52-6E67-4D75-BB44-4A1C1F1C2E72}|VotingSystem\\VotingSystem.csproj|solutionrelative:votingsystem\\project_main_architecture\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01AE52-6E67-4D75-BB44-4A1C1F1C2E72}|VotingSystem\\VotingSystem.csproj|d:\\docs\\c#_projects\\backend_practice\\votingsystem\\votingsystem\\project_main_architecture\\entities\\voter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB01AE52-6E67-4D75-BB44-4A1C1F1C2E72}|VotingSystem\\VotingSystem.csproj|solutionrelative:votingsystem\\project_main_architecture\\entities\\voter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01AE52-6E67-4D75-BB44-4A1C1F1C2E72}|VotingSystem\\VotingSystem.csproj|d:\\docs\\c#_projects\\backend_practice\\votingsystem\\votingsystem\\project_main_architecture\\entities\\voteresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB01AE52-6E67-4D75-BB44-4A1C1F1C2E72}|VotingSystem\\VotingSystem.csproj|solutionrelative:votingsystem\\project_main_architecture\\entities\\voteresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01AE52-6E67-4D75-BB44-4A1C1F1C2E72}|VotingSystem\\VotingSystem.csproj|d:\\docs\\c#_projects\\backend_practice\\votingsystem\\votingsystem\\project_main_architecture\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB01AE52-6E67-4D75-BB44-4A1C1F1C2E72}|VotingSystem\\VotingSystem.csproj|solutionrelative:votingsystem\\project_main_architecture\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Election.cs",
+              "DocumentMoniker": "D:\\docs\\C#_projects\\backend_practice\\VotingSystem\\VotingSystem\\Project_main_architecture\\Entities\\Election.cs",
+              "RelativeDocumentMoniker": "VotingSystem\\Project_main_architecture\\Entities\\Election.cs",
+              "ToolTip": "D:\\docs\\C#_projects\\backend_practice\\VotingSystem\\VotingSystem\\Project_main_architecture\\Entities\\Election.cs",
+              "RelativeToolTip": "VotingSystem\\Project_main_architecture\\Entities\\Election.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:03:50.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Voter.cs",
+              "DocumentMoniker": "D:\\docs\\C#_projects\\backend_practice\\VotingSystem\\VotingSystem\\Project_main_architecture\\Entities\\Voter.cs",
+              "RelativeDocumentMoniker": "VotingSystem\\Project_main_architecture\\Entities\\Voter.cs",
+              "ToolTip": "D:\\docs\\C#_projects\\backend_practice\\VotingSystem\\VotingSystem\\Project_main_architecture\\Entities\\Voter.cs",
+              "RelativeToolTip": "VotingSystem\\Project_main_architecture\\Entities\\Voter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:36:29.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Party.cs",
+              "DocumentMoniker": "D:\\docs\\C#_projects\\backend_practice\\VotingSystem\\VotingSystem\\Project_main_architecture\\Entities\\Party.cs",
+              "RelativeDocumentMoniker": "VotingSystem\\Project_main_architecture\\Entities\\Party.cs",
+              "ToolTip": "D:\\docs\\C#_projects\\backend_practice\\VotingSystem\\VotingSystem\\Project_main_architecture\\Entities\\Party.cs",
+              "RelativeToolTip": "VotingSystem\\Project_main_architecture\\Entities\\Party.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:29:14.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "D:\\docs\\C#_projects\\backend_practice\\VotingSystem\\VotingSystem\\Project_main_architecture\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "VotingSystem\\Project_main_architecture\\Entities\\Candidate.cs",
+              "ToolTip": "D:\\docs\\C#_projects\\backend_practice\\VotingSystem\\VotingSystem\\Project_main_architecture\\Entities\\Candidate.cs",
+              "RelativeToolTip": "VotingSystem\\Project_main_architecture\\Entities\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:28:54.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VoteResult.cs",
+              "DocumentMoniker": "D:\\docs\\C#_projects\\backend_practice\\VotingSystem\\VotingSystem\\Project_main_architecture\\Entities\\VoteResult.cs",
+              "RelativeDocumentMoniker": "VotingSystem\\Project_main_architecture\\Entities\\VoteResult.cs",
+              "ToolTip": "D:\\docs\\C#_projects\\backend_practice\\VotingSystem\\VotingSystem\\Project_main_architecture\\Entities\\VoteResult.cs",
+              "RelativeToolTip": "VotingSystem\\Project_main_architecture\\Entities\\VoteResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:28:26.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\docs\\C#_projects\\backend_practice\\VotingSystem\\VotingSystem\\Project_main_architecture\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "VotingSystem\\Project_main_architecture\\Entities\\Entity.cs",
+              "ToolTip": "D:\\docs\\C#_projects\\backend_practice\\VotingSystem\\VotingSystem\\Project_main_architecture\\Entities\\Entity.cs",
+              "RelativeToolTip": "VotingSystem\\Project_main_architecture\\Entities\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:27:30.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
